@@ -21,4 +21,5 @@ Utilising Plex Media Sever [Webhooks](https://support.plex.tv/articles/115002267
 
 ### Ideas & Thoughts
 - Integrate Telegram Bot to notify users
-- Separate each media event into routes and add them to individual webhooks, should case Plex ever do this. 
+- Separate each media event into routes and add them to individual webhooks, should case Plex ever do this.
+- Add users to a blacklist for multiple violations
