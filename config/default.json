@@ -1,0 +1,11 @@
+{
+  "hostname":"http://localhost",
+  "port": 5001,
+  "plexServer":"http://localhost:32400",
+  "plexToken":"",
+  "reasons": {
+    "noPausing":"a Pause was detected. Please use the STOP, EXIT or CLOSE options instead.",
+    "duplicateUser":"it appears multiple devices/sessions were detected. This server only allows one device per user."
+  },
+  "userWhiteList":["add users not to be affected"]
+}
